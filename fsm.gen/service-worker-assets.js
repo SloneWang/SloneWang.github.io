@@ -25,15 +25,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-OdaYNvUHYKrAXjTbdIOAtNYWMQBaQdfqEJsjW0m89EY=",
+      "hash": "sha256-5lHZ1E6tNlaG22k5VGo2gvd21wpkYusagg5VwlqIY9Q=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-bfJyOie2qQmZCHBuqT805FdQtcs1g7ZCfXlgIJeYAOo=",
+      "hash": "sha256-vuX\/BbFIrcYP6PWuaLZFqDABArnAQ1vBuU4BG2eR4Vw=",
       "url": "_framework\/fsm.gen.dll"
     },
     {
-      "hash": "sha256-K6Htk2eAFAJqlWL5Qi0s9Wce+PFxfLLYU1wZK\/BFj3U=",
+      "hash": "sha256-rUUv5xF+gyZQ9HW1VbmXWD6d9q81hMkNgVf0up+5y9E=",
       "url": "_framework\/fsm.staff.dll"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-bI2MSFnisC56Z5RoS5r6aUzOJuIQjoO5rNIoMDpNTfk=",
+      "hash": "sha256-lpMVzJa\/j9tusB0gowXo4SSicZpRZm6i2hxJ7hkWVDM=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-VoVeHw7rXCG1MVuHm21wndoCRMRMSMDcXlB0scCkxw4=",
+      "hash": "sha256-o02drzyPHBPkB6y4LUBSsM80g5Gm4P13v3z3ntAKXrI=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -193,11 +193,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-P04D510RyNeXAPR1kU+iPIom5Wi0ViRaGF8\/30J5J74=",
+      "hash": "sha256-oVzRq879MDRbBQIFit8B8UTzFWqxU2bDQvi+Ya+D6Uo=",
       "url": "_framework\/dotnet.6.0.8.upwhhgffww.js"
     },
     {
-      "hash": "sha256-0gmqlQmm6IjaaaBklI2H1UURX+HSQ4XDj+OH1cSqnbU=",
+      "hash": "sha256-xoL+hrAKj9HNOhZXYWlVtGWTtAgcQc5byGx6Sp5adcI=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -273,7 +273,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Oqh+5PgVcMaEGikXAlfo4xfijix7rxBwMSVShWsLLi8=",
+      "hash": "sha256-Dr7R6L4zhnA8AYBuWgs7M4GvCwP3kXEoXCRniJx8Nrc=",
       "url": "index.html"
     },
     {
@@ -285,5 +285,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "yMjzDoRR"
+  "version": "VvgP3PKL"
 };
