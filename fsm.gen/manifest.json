@@ -1,6 +1,6 @@
 {
-  "name": "fsm.gen",
-  "short_name": "fsm.gen",
+  "name": "领先工厂入厂码申领",
+  "short_name": "领先入厂码",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -8,14 +8,8 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "img/bi-qr-code.png",
+      "type": "image/png"
     }
   ]
 }

@@ -1,8 +1,19 @@
 /* /Pages/Index.razor.rz.scp.css */
-.qrcode[b-9qvic0bvgc] {
+.qrcode-box[b-9qvic0bvgc] {
     display: flex;
     justify-content: center;
 }
+
+.qrcode[b-9qvic0bvgc] {
+    width: 55%;
+    height: 55%;
+}
+
+    .qrcode[b-9qvic0bvgc]  img, .qrcode[b-9qvic0bvgc]  canvas {
+        width: 100%;
+        height: 100%;
+        border: medium solid white;
+    }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-3xo4is2p7m] {
     position: relative;
@@ -83,6 +94,36 @@ main[b-3xo4is2p7m] {
     .top-row[b-3xo4is2p7m], article[b-3xo4is2p7m] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
+    }
+
+    @media (prefers-color-scheme: light) {
+        .top-row[b-3xo4is2p7m] {
+            background-color: #F7F7F7 !important;
+            border-bottom-color: #D6D5D5 !important;
+        }
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .top-row[b-3xo4is2p7m] {
+            background-color: #080808 !important;
+            border-bottom-color: #292A2A !important;
+        }
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    article[b-3xo4is2p7m] {
+        background-color: black;
+        color: white;
+        height: calc(100vh - 3.5rem);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    article[b-3xo4is2p7m] {
+        background-color: white;
+        color: black;
+        height: calc(100vh - 3.5rem);
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */

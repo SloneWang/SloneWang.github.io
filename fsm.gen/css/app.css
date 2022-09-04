@@ -62,3 +62,22 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+@media (prefers-color-scheme: dark) {
+    .form-control {
+        background-color: black !important;
+        color: white !important;
+    }
+
+        .form-control:-webkit-autofill {
+            -webkit-text-fill-color: white !important;
+            transition: background-color 5000s ease-in-out 0s;
+        }
+}
+
+@media (prefers-color-scheme: light) {
+    .form-control {
+        background-color: white !important;
+        color: black !important;
+    }
+}
